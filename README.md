@@ -1,3 +1,15 @@
+# MBR-parser
+[파일시스템] 주어진 증거 이미지를 읽어서 다음과 같은 결과를 출력하는 프로그램을 작성한다. </br>
+```
+FAT32 1024 1024768
+NTFS 1025792 1024768
+```
+
+## RUN
+```
+ python3 mbr_parser.py mbr.dd
+```
+
 ## 디스크 파티션 관련 용어
 
 - **MBR(Master Boot Record)**

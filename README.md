@@ -7,7 +7,7 @@ NTFS 1025792 1024768
 
 ## RUN
 ```
- python3 mbr_parser.py mbr.dd
+ python3 mbr_parser.py mbr_128.dd
 ```
 
 ## 디스크 파티션 관련 용어
